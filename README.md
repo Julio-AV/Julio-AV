@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Julio-AV
-- 👀 I’m interested in embedded systems
+- 👀 I’m interested in embedded systems, I also like ducks. 🦆
 - 🌱 I’m currently studying Computer engineering at UAH.
 - 📫 How to reach me --> julioalvarezvillaescusa@gmail.com
 
